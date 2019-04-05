@@ -3,7 +3,7 @@
 
 * [Data.cs](./CS/ICollectionView Binding/Data.cs) (VB: [Data.vb](./VB/ICollectionView Binding/Data.vb))
 * [MainPage.xaml](./CS/ICollectionView Binding/MainPage.xaml) (VB: [MainPage.xaml](./VB/ICollectionView Binding/MainPage.xaml))
-* [MainPage.xaml.cs](./CS/ICollectionView Binding/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/ICollectionView Binding/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/ICollectionView Binding/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/ICollectionView Binding/MainPage.xaml.vb))
 <!-- default file list end -->
 # How to: Bind the Grid to ICollectionView
 
