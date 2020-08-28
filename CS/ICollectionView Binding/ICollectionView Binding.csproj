@@ -125,14 +125,8 @@
     </Page>
   </ItemGroup>
   <ItemGroup>
-    <SDKReference Include="DevExpress.Controls, version=18.1">
-      <Name>DevExpress.Controls</Name>
-    </SDKReference>
-    <SDKReference Include="DevExpress.Core, version=18.1">
-      <Name>DevExpress.Core</Name>
-    </SDKReference>
-    <SDKReference Include="DevExpress.Data, Version=18.1">
-      <Name>DevExpress.Data</Name>
+    <SDKReference Include="DevExpress.Uwp, version=20.1">
+      <Name>DevExpress.Uwp</Name>
     </SDKReference>
   </ItemGroup>
   <ItemGroup>
