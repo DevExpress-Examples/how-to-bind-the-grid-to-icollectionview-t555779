@@ -125,7 +125,7 @@
     </Page>
   </ItemGroup>
   <ItemGroup>
-    <SDKReference Include="DevExpress.Uwp, version=19.2">
+    <SDKReference Include="DevExpress.Uwp, version=20.2">
       <Name>DevExpress.Uwp</Name>
     </SDKReference>
   </ItemGroup>
